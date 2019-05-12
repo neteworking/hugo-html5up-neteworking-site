@@ -1,0 +1,35 @@
+[[image]]
+  effect = "from-left"
+  full = "images/fulls/neteworking-8.jpg"
+  thumb = "images/thumbs/neteworking-8.jpg"
+  caption = "Ullamcorper vel vulputate"
+
+[[image]]
+  effect = "from-left"
+  full = "images/fulls/neteworking-3.jpg"
+  thumb = "images/thumbs/neteworking-3.jpg"
+  caption = "Vestibulum tincidunt gravida"
+
+[[image]]
+  effect = "from-right"
+  full = "images/fulls/neteworking-4.jpg"
+  thumb = "images/thumbs/neteworking-4.jpg"
+  caption = "Pellentesque non pretium purus"
+
+[[image]]
+  effect = "from-left"
+  full = "images/fulls/neteworking-5.jpg"
+  thumb = "images/thumbs/neteworking-5.jpg"
+  caption = "Donec sem purus"
+
+[[image]]
+  effect = "from-right"
+  full = "images/fulls/neteworking-6.jpg"
+  thumb = "images/thumbs/neteworking-6.jpg"
+  caption = "Quisque eleifend blandit"
+
+[[image]]
+  effect = "from-right"
+  full = "images/fulls/neteworking-9.jpg"
+  thumb = "images/thumbs/neteworking-9.jpg"
+  caption = "Vivamus et tellus"
