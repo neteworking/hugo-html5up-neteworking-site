@@ -23,10 +23,10 @@ googleAnalytics = ""
   # Form submissions by https://formspree.io/
   [params.contact]
     title = "Say Hello."
-    text = "Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum."
-    email = "your@mail.com"
-    sendBtnText = "Send Message"
-    subject = "New submission from my website!"
+    text = ""
+    email = "info@fluid-it.be"
+    sendBtnText = "Verstuur"
+    subject = "Info Neteworking"
     plainText = false
 
   # Social Icons

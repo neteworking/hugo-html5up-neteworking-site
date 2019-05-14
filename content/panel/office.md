@@ -9,4 +9,4 @@
   backgroundPosition = "50% 40%"
 +++
 
-Heb je een medewerker(s)? Ben je een startup? Wil je een afzonderlijk kantoor? **Neteworking** heeft één afgescheiden kantoorruimte te huur. Contacteer ons vrijblijvend voor meer details.
+Heb je een medewerker(s)? Ben je een startup? Wil je een afzonderlijk kantoor? **Neteworking** heeft één aparte kantoorruimte te huur. Contacteer ons vrijblijvend voor meer details.
