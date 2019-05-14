@@ -1,8 +1,8 @@
 # Site settings
 # baseURL = "https://example.org/"
 baseURL = ""
-languageCode = "en-US"
-title = "Big Picture by HTML5 UP"
+languageCode = "nl-be"
+title = "Neteworking Lier"
 theme = "hugo-big-picture-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
 copyright = "&copy; 2019 Fluid-IT"
