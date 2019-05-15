@@ -5,7 +5,7 @@
   style = "style2 left dark fullscreen"
   navLabel = "Kantoor"
   showNextBtn = true
-  backgroundImage = "images/intro.jpg"
+  backgroundImage = "images/office.jpg"
   backgroundPosition = "50% 40%"
 +++
 
