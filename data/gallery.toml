@@ -2,34 +2,34 @@
   effect = "from-left"
   full = "images/fulls/neteworking-8.jpg"
   thumb = "images/thumbs/neteworking-8.jpg"
-  caption = "Ullamcorper vel vulputate"
+  caption = "Aan de vesten van Lier"
 
 [[image]]
   effect = "from-left"
   full = "images/fulls/neteworking-3.jpg"
   thumb = "images/thumbs/neteworking-3.jpg"
-  caption = "Vestibulum tincidunt gravida"
-
-[[image]]
-  effect = "from-right"
-  full = "images/fulls/neteworking-4.jpg"
-  thumb = "images/thumbs/neteworking-4.jpg"
-  caption = "Pellentesque non pretium purus"
+  caption = "De coworking ruimte"
 
 [[image]]
   effect = "from-left"
+  full = "images/fulls/neteworking-4.jpg"
+  thumb = "images/thumbs/neteworking-4.jpg"
+  caption = "Even overleggen"
+
+[[image]]
+  effect = "from-right"
   full = "images/fulls/neteworking-5.jpg"
   thumb = "images/thumbs/neteworking-5.jpg"
-  caption = "Donec sem purus"
+  caption = "Ruime zit-sta bureaus"
 
 [[image]]
   effect = "from-right"
   full = "images/fulls/neteworking-6.jpg"
   thumb = "images/thumbs/neteworking-6.jpg"
-  caption = "Quisque eleifend blandit"
+  caption = "Even relaxen"
 
 [[image]]
   effect = "from-right"
   full = "images/fulls/neteworking-9.jpg"
   thumb = "images/thumbs/neteworking-9.jpg"
-  caption = "Vivamus et tellus"
+  caption = "Aan de samenvloeing v/d Grote en de Kleine Nete"

@@ -1,6 +1,6 @@
 +++
   weight = 50
-  title = "Hilaarseik 2 bus6, 2500 Lier"
+  title = "Hilaarseik 2/b6, 2500 Lier"
   description = ""
   style = "style1 secondary"
   navLabel = "Waar?"
