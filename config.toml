@@ -8,7 +8,7 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robots
 copyright = "&copy; 2019 Fluid-IT"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-140329520-1"
 
 [params]
 
