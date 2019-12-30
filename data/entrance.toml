@@ -1,0 +1,11 @@
+[[image]]
+  effect = "from-left"
+  full = "images/fulls/neteworking-inkom-1.jpg"
+  thumb = "images/thumbs/neteworking-inkom-1.jpg"
+  caption = "Via wandel/fietspad vesten"
+
+[[image]]
+  effect = "from-right"
+  full = "images/fulls/neteworking-inkom-2.jpg"
+  thumb = "images/thumbs/neteworking-inkom-2.jpg"
+  caption = "Ingang tussen blok A en blok B"

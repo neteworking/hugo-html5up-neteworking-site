@@ -1,16 +1,20 @@
 +++
   weight = 50
-  title = "Hilaarseik 2/b6, 2500 Lier"
+  title = "Hilaarseik 2/b6, 2500 Lier "
   description = ""
   style = "style1 secondary"
   navLabel = "Waar?"
   showNextBtn = false
 +++
 
+<div style="text-align: center;">
+<font size="10"><b>gps -> Sionsplein 21 ingeven</b></font>
+</div>
 <div style="text-align: left;">
 <b>Parkeren</b>
 <ul >
 <li type="square">Gratis parkeren kan op de veemarkt (Parking Zaat)</li>
+<li type="square">Betalend parkeren op Sionsplein</li>
 <li type="square">Ideale ligging om per fiets te bereiken</li>
 <li type="square">Eventueel huren overdekte parkeerplaats (vanaf 3 maanden)</li>
 </ul>

@@ -5,7 +5,7 @@ languageCode = "nl-be"
 title = "Neteworking Lier"
 theme = "hugo-big-picture-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
-copyright = "&copy; 2019 Fluid-IT"
+copyright = "&copy; 2020 Fluid-IT"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-140329520-1"
